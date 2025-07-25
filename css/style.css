@@ -154,6 +154,14 @@ img {
         width: 100%;
     }
 
+    h1 {
+        font-size: 2.9rem;
+    }
+
+    h2 {
+        font-size: 2.4rem;
+    }
+
     .row {
         flex-wrap: wrap;
     }
@@ -167,12 +175,32 @@ img {
     }
 
     .steps {
-        margin: 0
+        margin-bottom: 0;
+        padding-bottom: 0;
     }
 
     .card {
         margin-bottom: 70px;
     }
+
+    .steps .col {
+        width: 100%
+    }
+
+    .why-us {
+        background-color: #222222;
+        padding-top: 3rem;
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+
+    }
+
+    .why-us .col-left ,
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    
 
 
 
